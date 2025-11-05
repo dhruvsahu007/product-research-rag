@@ -1,5 +1,3 @@
-#llm powered summarization using langchains retrievalQa or similar
-
 from langchain.chains import RetrievalQA
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
